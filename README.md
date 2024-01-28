@@ -47,10 +47,6 @@ Após a instalação das dependências, você pode executar o código para verif
 
 Certifique-se de que o ambiente de execução tenha acesso à internet para realizar as consultas DNS e whois.
 
-## Considerações Finais
-
-Agora você concluiu a instalação e execução do código de verificação de disponibilidade de domínios. Caso encontre algum problema durante o processo de instalação, verifique se todos os pré-requisitos foram atendidos e se as dependências foram instaladas corretamente.
-
 ## Variáveis
 
 ### 1. caracteres
@@ -109,3 +105,7 @@ Agora você concluiu a instalação e execução do código de verificação de 
 ## Uso
 
 O código pode ser executado diretamente, e os domínios disponíveis serão salvos em um arquivo JSON chamado `available_domains.tld.json`. Certifique-se de ter as bibliotecas `dns` e `node-whois` instaladas no ambiente de execução.
+
+## Considerações Finais
+
+Agora você concluiu a instalação e execução do código de verificação de disponibilidade de domínios. Caso encontre algum problema durante o processo de instalação, verifique se todos os pré-requisitos foram atendidos e se as dependências foram instaladas corretamente.
